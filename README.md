@@ -1,5 +1,7 @@
 # pe4-3 -- Using safe functions instead of the cstring header file.
-##C++ Primer Plus (6th) Edition by Stephen Prata
+###C++ Primer Plus (6th) Edition by Stephen Prata  
+
+Programming Exercise:  
 
 Write a program that asks the user to enter his or her first name and then last
 name, and that then constructs, stores, and displays a third string, consisting of the
