@@ -23,7 +23,7 @@ int main(void)
 	cout << " \n Your name is: \n" << your_name;
 
 	cin.get();
-	//cin.get();
+      //cin.get();
 
 	return 0;
 }
